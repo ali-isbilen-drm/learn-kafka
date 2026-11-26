@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# SQLite database & WAL temp files
+positions.db*
+
+# OS files
+.DS_Store
+Thumbs.db
